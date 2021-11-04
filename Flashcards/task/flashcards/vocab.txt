@@ -1,0 +1,7 @@
+France::Paris::16
+Poland::Warsaw::22
+Ukraine::Kiev::22
+Russia::Moscow::32
+USA::DC::14
+Great Bretain::London::20
+Uganda::Baku::20
